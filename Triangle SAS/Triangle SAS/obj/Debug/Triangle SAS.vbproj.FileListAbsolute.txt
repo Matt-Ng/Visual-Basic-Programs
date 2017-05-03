@@ -1,0 +1,10 @@
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\bin\Debug\Triangle SAS.exe.config
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\bin\Debug\Triangle SAS.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\bin\Debug\Triangle SAS.pdb
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\bin\Debug\Triangle SAS.xml
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\obj\Debug\Triangle_SAS.Form1.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\obj\Debug\Triangle_SAS.Resources.resources
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\obj\Debug\Triangle SAS.vbproj.GenerateResource.Cache
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\obj\Debug\Triangle SAS.exe
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\obj\Debug\Triangle SAS.xml
+C:\Users\Matthew\Documents\Visual Studio 2012\Projects\Triangle SAS\Triangle SAS\obj\Debug\Triangle SAS.pdb
